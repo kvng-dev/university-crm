@@ -1,7 +1,9 @@
-University CRM System
+# University CRM System
+
 A comprehensive University Course and Student Management System built with modern web technologies, featuring role-based access control, AI integrations, and real-time notifications.
 
 🚀 Features
+
 Core Functionality
 Authentication & Authorization: JWT-based auth with role-based access control
 Course Management: Create, update, and manage university courses
